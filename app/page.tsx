@@ -1,0 +1,2 @@
+import { HomeContent } from "@/components/pages/HomeContent";
+export default function Page() { return <HomeContent locale="en" />; }

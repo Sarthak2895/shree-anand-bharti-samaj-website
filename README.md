@@ -4,14 +4,16 @@ Production-ready Next.js starter for Shree Anand Bharti Samaj, Chendani Koliwada
 
 ## Current functionality
 
-- Public bilingual website (English and Marathi)
-- Navy-blue and heritage-gold design with official logo
-- Illustrated cards for 12 departments
-- About/history, departments, events, gallery and digital library
-- Public gallery submissions without visitor accounts
-- Administrator approval before gallery publication
-- Private Supabase Storage and administrator moderation dashboard
-- Digital Library publishing for articles and research papers
-- Search metadata, sitemap and robots configuration
+- Public bilingual website (English + Marathi)
+- Navy-blue / heritage-gold design
+- Official logo
+- 12 illustrated department cards
+- About/history, departments, events, Gallery and Digital Library
+- Public Gallery submissions without visitor accounts
+- Administrator approval before Gallery publication
+- Private Supabase Storage
+- Administrator-only moderation dashboard
+- Public Library publishing for articles/research papers
+- Search-engine metadata, sitemap and robots configuration
 
-See `START_HERE.md` for setup and deployment instructions. Copy `.env.example` to `.env.local` and configure your own Supabase credentials before running the application. Never commit real secrets or `.env.local`.
+See `START_HERE.md` for setup and deployment instructions.
